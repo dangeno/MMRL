@@ -14,7 +14,7 @@ from bokeh.plotting import figure, show
 import plotly.graph_objects as go
 
 st.image('csi-pacific-logo-reverse.png', width = 150)
-st.title("Band Ploy Fitting")
+st.title("Band Force-Length Calculator")
 uploaded_data = st.file_uploader('Load Band Data Here')
 
 
